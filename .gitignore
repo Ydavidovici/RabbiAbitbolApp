@@ -22,3 +22,14 @@ logs
 
 # dist
 /dist
+
+# Frontend-specific
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/build/
+frontend/.env.local
+
+# Idea files
+.idea/
+*.iml
