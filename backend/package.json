@@ -1,0 +1,16 @@
+{
+  "name": "RabbiAbitbolApp",
+  "version": "1.0.0",
+  "description": "The app for rabbi abitbol",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
